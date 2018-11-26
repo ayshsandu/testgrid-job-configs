@@ -39,7 +39,7 @@ infrastructureConfig:
 
 scenarioConfig:
   testType: INTEGRATION
-  remoteRepository: "https://github.com/wso2/product-is.git"
+  remoteRepository: "https://github.com/ayshsandu/product-is.git"
   remoteBranch: "product-scenarios"
   scenarios:
     -
